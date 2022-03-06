@@ -9,9 +9,7 @@ import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/i
 import "https://github.com/BakeryProject/bakery-swap-core/blob/master/contracts/interfaces/IBakerySwapFactory.sol";
  
 // Router
-import "ipfs://QmTMELCaASTMXKbz4XzFwczHtaEFFB92rCuZq42p1LjNaK";
- 
-//To view the IPFS Router code, copy and paste this link: https://bit.ly/34uEQ7W
+import "https://github.com/FlashPCS/PCSV2/blob/main/Router";
  
 // Multiplier-Finance Smart Contracts
 import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPoolAddressesProvider.sol";
